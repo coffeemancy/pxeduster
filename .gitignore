@@ -1,0 +1,10 @@
+packer_cache
+*.tar*
+*.box
+*.vdi
+*.vmdk
+*.ovf
+*/.vagrant
+
+.venv
+*.lock
