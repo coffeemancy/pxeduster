@@ -31,6 +31,4 @@ domain. I make this dedication for the benefit of the public at large.
 I intend this dedication to be an overt act of relinquishment in perpetuity of
 all present and future rights to this software under copyright law.
 
-## authors
-
-♡2014 by Carlton Stedman <@carltonstedman>. Copying Art is an act of love. Please copy and share.
+♡2014. Copying Art is an act of love. Please copy and share.
